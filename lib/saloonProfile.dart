@@ -167,7 +167,8 @@ class _saloonProfileState extends State<saloonProfile> {
                   size: 30,
                 ),
               ],
-            )
+            ),
+
           ],
         ),
       ),
